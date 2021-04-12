@@ -1,0 +1,16 @@
+[
+{
+  "modid": "blockprotector",
+  "name": "Block Protector",
+  "description": "A mod that allows admins to mark blocks as indestructible.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["klikli-dev"],
+  "credits": "klikli-dev",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
